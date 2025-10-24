@@ -16,4 +16,4 @@ A tech enthusiast with a strong curiosity for IT and a drive to gain meaningful 
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukti128)](https://github.com/mukti128/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukti128&show_icons=true&theme=dark)  
